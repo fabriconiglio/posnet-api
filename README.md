@@ -11,7 +11,7 @@ API que procesa pagos con tarjetas de crédito (VISA/AMEX).
 ## Instalación
 
 ```bash
-git clone [repo-url]
+git clone https://github.com/fabriconiglio/posnet-api
 cd posnet-api
 composer install
 cp .env.example .env
